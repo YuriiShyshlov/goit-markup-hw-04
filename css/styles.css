@@ -159,9 +159,6 @@ a {
   margin-bottom: 0;
 }
 
-.portfolio {
-  margin-bottom: 94px;
-}
 .logo {
   color: var(--primary-text-color);
   font-weight: 700;
@@ -186,6 +183,7 @@ a {
 }
 
 .hero {
+  background-image: url(../images/mainfoto.jpg);
   background-color: var(--secondary-bg-color);
   padding: auto;
   text-align: center;
